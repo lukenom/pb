@@ -25,7 +25,7 @@ global type w_welcome from window
 integer width = 2309
 integer height = 1080
 boolean titlebar = true
-string title = "Welcome"
+string title = "Hello"
 boolean controlmenu = true
 windowtype windowtype = response!
 long backcolor = 67108864
