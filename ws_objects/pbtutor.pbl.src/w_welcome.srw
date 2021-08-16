@@ -220,7 +220,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "Welcome to LMP, Inc."
+string text = "Welcome 2 LMP, Inc."
 boolean focusrectangle = false
 end type
 
