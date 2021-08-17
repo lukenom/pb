@@ -16,6 +16,7 @@ end variables
 
 global type pbtutor from application
 string appname = "pbtutor"
+string appruntimeversion = "19.2.0.2703"
 end type
 global pbtutor pbtutor
 
